@@ -4,7 +4,7 @@
        width="100%"
        height="300"/>
 </a>
-<h1 align="center">Hi 👋, I'm RomaisaAbbasi</h1>
+<h1 align="center">I'm Romaisa Abbasi</h1>
 <h3 align="center">A passionate Software Engineering Student intrested in Frontend Web Development from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://img.pikbest.com/ai/illus_our/20230420/8b14a64789f8529e9df28cace15b86d3.jpg!bwr800" >
 
