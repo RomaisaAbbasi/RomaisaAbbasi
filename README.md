@@ -2,7 +2,7 @@
   <img src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4825.jpg?semt=ais_hybrid&w=740&q=80"
        alt="https://github.com/RomaisaAbbasi"
        width="100%"
-       height="220"/>
+       height="300"/>
 </a>
 <h1 align="center">Hi 👋, I'm RomaisaAbbasi</h1>
 <h3 align="center">A passionate Software Engineering Student intrested in Frontend Web Development from Pakistan</h3>
